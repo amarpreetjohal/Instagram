@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstaGram</string>
+     <string name="status">Not Connected</string>
+      <string name="message">1. Connect using your login credentials \n2. Tap the images in the list to see in full screen. 
+          \n3. Tap on the full screen image to return to the listview.</string>
+    <string name="connect">Connect</string>
+    <string name="showlist">Show Image List</string>
+        <string name="alert_message">Please log in using Instagram.</string>
+    
+    
+</resources>
